@@ -1,0 +1,24 @@
+<rss
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>a</title>
+        <link>https://sspai.com</link>
+        <description>少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质</description>
+        <language>zh-CN</language>
+        <managingEditor>contact@sspai.com (少数派)</managingEditor>
+        <pubDate>Fri, 13 Dec 2024 15:00:00 +0800</pubDate>
+        <item>
+            <title>1</title>
+            <link>https://sspai.com/post/94791</link>
+            <description>随着 visionOS 2.2 的发布，Apple 为 Vision Pro 也带来了一系列更新。
+                
+                <a href="https://sspai.com/post/94791" target="_blank">查看全文</a>
+            </description>
+            <author>轻舟_</author>
+            <pubDate>Fri, 13 Dec 2024 15:00:00 +0800</pubDate>
+        </item>
+        <atom:link href="https://sspai.com/feed" type="application/rss+xml" ref="self"/>
+        <atom:link href="https://sspai.com/feed" type="application/rss+xml" ref="hub"/>
+    </channel>
+</rss>
